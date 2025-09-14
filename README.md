@@ -1,5 +1,5 @@
-# Python CrawlNews
-## Python 新闻爬虫
+# Python CrawlNews v1.0
+## Python 新闻爬虫 1.0版本
 ---
 ## 简介
 - 这是一个完全由Python开发的轻量级网络爬虫项目。
